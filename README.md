@@ -1,2 +1,5 @@
 # iis-2024-2
-Website del curso Introducción a los Sistemas Inteligentes 2024-2, Universidad Nacional de Colombia
+
+Sitio web del curso Introducción a los Sistemas Inteligentes 2024-2
+
+Disponible en: https://fagonzalezo.github.io/iis-2024-2/
