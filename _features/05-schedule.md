@@ -14,7 +14,7 @@ image:
 			<th>Actividades</th>
 		</tr>
 		<tr>
-			<td>Feb 5</td>
+			<td>Oct 28</td>
 			<td>1. Introducción</td>
 			<td>
 				<b>Lecturas y recursos:</b><br>
@@ -26,7 +26,7 @@ image:
 			</td>
 		</tr>
 		<tr>
-			<td>Feb 12</td>
+			<td>Nov 4</td>
 			<td> 
 			1.3 Agentes inteligentes<br>
 			2.1 Agentes y Búsquedas<br>
@@ -54,7 +54,7 @@ image:
 			</td>
 		</tr>
 		<tr>
-			<td>Feb 19</td>
+			<td>Nov 11</td>
 			<td>
 			2.2 Búsqueda no informada<br>
 			2.3 Búsqueda informada
@@ -86,7 +86,7 @@ image:
 			</td>
 		</tr>
 		<tr>
-			<td>Feb 26</td>
+			<td>Nov 18</td>
 			<td>
 			4.1 Python para machine learning
 			</td>
@@ -106,7 +106,7 @@ image:
 			</td>
 		</tr>
 		<tr>
-			<td>Mar 4</td>
+			<td>Dic 2</td>
 			<td>
 			3.1 Qué es el machine learning<br>
 			3.2 Aprendizaje supervisado<br>
@@ -150,7 +150,7 @@ image:
 			</td>
 		</tr>
 		<tr>
-			<td>Mar 11</td>
+			<td>Dic 9</td>
 			<td>
 			4.2 Construcción de modelos a partir de datos
 			</td>
@@ -165,7 +165,7 @@ image:
 			</td>
 		</tr>
 		<tr>
-			<td>Mar 18</td>
+			<td>Dic 9</td>
 			<td>
 			3.3.2 Modelos probabilísticos
 			</td>
@@ -193,7 +193,7 @@ image:
 			</td>
 		</tr>
 		<tr>
-			<td>Abr 1-8</td>
+			<td>Dic 16</td>
 			<td>
 			4.3 Exploración y preparación de datos
 			</td>
@@ -207,7 +207,7 @@ image:
 			</td>
 		</tr>
 		<tr>
-			<td>Abr 15</td>
+			<td>Ene 13</td>
 			<td>
 			3.3.3 Arboles de decisión
 			</td>
@@ -235,7 +235,7 @@ image:
 			</td>
 		</tr>
 		<tr>
-			<td>Abr 22</td>
+			<td>Ene 20</td>
 			<td>
 			4.4 Evaluación de modelos<br>
 			4.5 Selección de modelos
@@ -250,7 +250,7 @@ image:
 			</td>		
 		</tr>
 		<tr>
-			<td>Mayo 6</td>
+			<td>Ene 27</td>
 			<td>
 			3.3.4 Redes neuronales
 			</td>
@@ -276,7 +276,7 @@ image:
 			</td>
 		</tr>
 		<tr>
-			<td>May 13</td>
+			<td>Feb 3</td>
 			<td>
 			4.6 Redes neuronales y Tensorflow
 			</td>
@@ -290,11 +290,11 @@ image:
 				<br>
 				<br>
 				<a href= "practica8.pdf">Práctica 8</a><br>
-				<a href= "proyecto_final.pdf">Proyecto Final</a><br>
+				<!-- <a href= "proyecto_final.pdf">Proyecto Final</a><br> -->
 			</td>		
 		</tr>
 		<tr>
-			<td>May 20</td>
+			<td>Feb 10</td>
 			<td>
 			3.4 Aprendizaje no supervisado<br>
 			3.4.1 Clustering
@@ -319,7 +319,7 @@ image:
 			</td>
 		</tr>
 		<tr>
-			<td>May 27</td>
+			<td>Feb 17</td>
 			<td>
 			4.8 Desarrollo de modelos no supervisados
 			</td>
@@ -334,7 +334,7 @@ image:
 			</td>
 		</tr>
 		<tr>
-			<td>Jun 3</td>
+			<td>Feb 24</td>
 			<td>
 			3.4 Aprendizaje no supervisado<br>
 			3.4.2 Reducción de la dimensionalidad<br>
