@@ -47,7 +47,7 @@ image:
 				- Algoritmos de búsqueda (<a href= "https://drive.google.com/file/d/1MLAsxUn35Rrw28PuwWt_9hJOYLD8215Y/view?usp=sharing">video </a> 3:47)<br> 
 				<b>Lecturas y recursos</b><br>
 				- [<a href= "http://aima.cs.berkeley.edu/contents.html">Russell21</a>] Chap 2, Sect 3.1-3.2 (<a href= "http://aima.eecs.berkeley.edu/slides-pdf/chapter02.pdf">slides</a>) <br>
-				- [CS188-Berkeley] Planning agents (<a href= "https://drive.google.com/file/d/1X74qlbbKkx2gwlyAyFEoe-Viu8X36DYO/view">slides</a>)<br>
+				- [CS188-Berkeley] Planning agents (<a href= "https://www.scribd.com/document/476704448/lec2">slides</a>,<a href= "https://www.youtube.com/watch?v=BEjSz-0H97g">video</a>)<br>
 			</td>
 			<td>
 			<a href= "practica2.pdf">Práctica 2</a>
@@ -78,8 +78,8 @@ image:
 				- Heurísticas admisibles  (<a href= "https://drive.google.com/file/d/14KU58uvCUBacRP2fhgWr1VcOvKA9Xz3d/view?usp=sharing">video</a> 10:57)<br> 
 				<b>Lecturas y recursos</b><br>
 				- [<a href= "http://aima.cs.berkeley.edu/contents.html">Russell21</a>] Sect 3.3-3.6 <br>
-				- [CS188-Berkeley] Uninformed search (<a href= "https://drive.google.com/file/d/1X74qlbbKkx2gwlyAyFEoe-Viu8X36DYO/view">slides</a>)<br>
-				- [CS188-Berkeley] A* Search and Heuristics (<a href= "https://drive.google.com/file/d/1MeD3hvq0rQ_rA3KZ_3hBMnHPIK968b_Y/view">slides</a>)
+				- [CS188-Berkeley] Uninformed search (<a href= "https://www.scribd.com/document/476704448/lec2">slides</a>,<a href= "https://www.youtube.com/watch?v=BEjSz-0H97g">video</a>)<br>
+				- [CS188-Berkeley] A* Search and Heuristics (<a href= "https://www.scribd.com/presentation/546788874/Informed-Search">slides</a>,<a href= "https://www.youtube.com/watch?v=WhWA-a9GV5s">video</a>)
 			</td>
 			<td>
 				<a href= "practica3.pdf">Práctica 3</a>
