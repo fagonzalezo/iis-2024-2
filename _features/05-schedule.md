@@ -106,7 +106,7 @@ image:
 			</td>
 		</tr>
 		<tr>
-			<td>Dic 2</td>
+			<td>Nov 25</td>
 			<td>
 			3.1 Qué es el machine learning<br>
 			3.2 Aprendizaje supervisado<br>
@@ -150,7 +150,7 @@ image:
 			</td>
 		</tr>
 		<tr>
-			<td>Dic 9</td>
+			<td>Dic 2</td>
 			<td>
 			4.2 Construcción de modelos a partir de datos
 			</td>
